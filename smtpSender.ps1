@@ -37,7 +37,7 @@ TABLE {border-width: 1px; border-style: solid; border-color: black; border-colla
 TD {border-width: 1px; padding: 3px; border-style: solid; border-color: black;}
 </style>
 "@
-# httml body
+# html body
 $html = "<table>
 <tr>
 <td><b>Column 1</b></td>
